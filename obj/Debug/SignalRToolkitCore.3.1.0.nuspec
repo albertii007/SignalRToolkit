@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SignalRToolkitCore</id>
+    <version>3.1.0</version>
+    <authors>Arcenox</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\bin\Debug\netcoreapp3.1\SignalRToolkit.dll" target="lib\netcoreapp3.1\SignalRToolkit.dll" />
+  </files>
+</package>

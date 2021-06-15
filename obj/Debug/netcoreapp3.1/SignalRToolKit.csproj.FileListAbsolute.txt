@@ -1,0 +1,9 @@
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\bin\Debug\netcoreapp3.1\SignalRToolkit.deps.json
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\bin\Debug\netcoreapp3.1\SignalRToolkit.dll
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\bin\Debug\netcoreapp3.1\SignalRToolkit.pdb
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\obj\Debug\netcoreapp3.1\SignalRToolkit.csprojAssemblyReference.cache
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\obj\Debug\netcoreapp3.1\SignalRToolkit.AssemblyInfoInputs.cache
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\obj\Debug\netcoreapp3.1\SignalRToolkit.AssemblyInfo.cs
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\obj\Debug\netcoreapp3.1\SignalRToolkit.csproj.CoreCompileInputs.cache
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\obj\Debug\netcoreapp3.1\SignalRToolkit.dll
+C:\MyProjects\.Net\Packages\SignalRTools\SignalRToolKit\SignalRToolKit\obj\Debug\netcoreapp3.1\SignalRToolkit.pdb

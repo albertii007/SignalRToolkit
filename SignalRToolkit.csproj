@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>SignalRToolkitCore</PackageId>
+    <Authors>Arcenox</Authors>
+    <Product>SignalRToolkitCore</Product>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>3.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  
+</Project>

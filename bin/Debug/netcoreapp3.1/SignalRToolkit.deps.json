@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SignalRToolkit/3.1.0": {
+        "runtime": {
+          "SignalRToolkit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalRToolkit/3.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
