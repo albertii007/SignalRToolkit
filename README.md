@@ -45,12 +45,8 @@ Register Hubs on  IEndpointRouteBuilder routeBuilder:
   }
   ```
   UsersHubController:
-  ```
-  [RouteHub("/users")]
-  [AuthorizeHub]
-  UsersHubController:
-  
- 
+  ```  
+    [AuthorizeHub]
     [RouteHub("/users")]
     public class UserHubController : BaseHub
     {
