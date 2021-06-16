@@ -50,8 +50,7 @@ Register Hubs on  IEndpointRouteBuilder routeBuilder:
   [AuthorizeHub]
   UsersHubController:
   
-  public class UsersHubController : HubBase
-  {
+ 
     [RouteHub("/users")]
     public class UserHubController : BaseHub
     {
@@ -62,6 +61,5 @@ Register Hubs on  IEndpointRouteBuilder routeBuilder:
             await Clients.Caller.SendAsync(ResponseHub(), result);
         }
     }
-  }
   ```
 
